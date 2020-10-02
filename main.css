@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    border: 0;
+}
+nav {
+  background-color: #f5f7fa;
+  display: block;
+  height: 50px;
+  padding: 5px;
+}
+
+nav div {
+    display: inline;
+} 
+.logo a {
+    text-decoration: none;
+    color: red;
+}
+.middle-nav {
+    margin: auto;
+    width: 50%;
+    padding-left: 50px;
+}
+
+.right-nav {
+    float: right;
+    padding-right: 20px;
+}
+/* media */
+.centered-content {
+    margin: auto;
+    width: 70%;
+    padding-top: 17px;
+}
